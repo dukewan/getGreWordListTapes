@@ -1,0 +1,21 @@
+{
+  "name": "getGreWordListTapes",
+  "version": "0.0.0",
+  "description": "抓取GRE单词音频文件并保存在本地，方便离线复习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spider",
+    "gre",
+    "word",
+    "list",
+    "tape"
+  ],
+  "author": "1MHz",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^0.5.1"
+  }
+}
